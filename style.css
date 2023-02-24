@@ -65,7 +65,7 @@ body
     background-color: #fff;
     border-radius: 6px 6px 0 0;
 }
-.dropdown:hover .dp-content {
+.dp-btn:hover .dp-content {
     display: block;
 }
 
